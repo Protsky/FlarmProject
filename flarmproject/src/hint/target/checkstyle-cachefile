@@ -1,0 +1,4 @@
+#Tue Oct 25 15:30:40 CEST 2022
+configuration*?=161FDC7C49177C926CF6BB28CE5AFD487B1E11C3
+module-resource*?\:checkstyle/suppressions.xml=98ADEB6F50DD1001B268D6A262B764017F7D6C7
+/Users/gionatadonati/Documents/FlarmProject/flarmproject/src/hint/src/test/java/com/hint/AppTest.java=1666647536601
